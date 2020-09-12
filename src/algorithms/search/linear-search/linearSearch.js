@@ -1,5 +1,5 @@
 import Comparator from '../../../utils/comparator/Comparator';
-
+const forked = () => console.log('forked!');
 /**
  * Linear search implementation.
  *
